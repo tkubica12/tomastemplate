@@ -29,6 +29,7 @@
 		"ms-azuretools.vscode-azureterraform",
 		"ms-vscode.vscode-node-azure-pack",
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
-		"ms-kubernetes-tools.vscode-aks-tools"
+		"ms-kubernetes-tools.vscode-aks-tools",
+		"donjayamanne.githistory"
 	]
 }
